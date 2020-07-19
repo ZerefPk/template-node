@@ -1,2 +1,7 @@
 # template-node
- Templane node com TypeScript, Autenticação e Erros
+ Template node com TypeScript
+ 
+ Autenticação e Erros
+ 
+ Libs: typeorm; jwt
+ Framework: express
